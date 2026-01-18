@@ -277,6 +277,13 @@ The frontend should now be running at `http://localhost:3000`
       <sub>51 commits</sub>
     </td>
     <td align="center">
+      <a href="https://github.com/apps/github-actions">
+        <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt="github-actions[bot]"><br />
+        <sub><b>github-actions[bot]</b></sub>
+      </a><br />
+      <sub>8 commits</sub>
+    </td>
+    <td align="center">
       <a href="https://github.com/josephchimebuka">
         <img src="https://avatars.githubusercontent.com/u/87217051?v=4" width="64" height="64" alt="josephchimebuka"><br />
         <sub><b>josephchimebuka</b></sub>
@@ -289,13 +296,6 @@ The frontend should now be running at `http://localhost:3000`
         <sub><b>gchyuli</b></sub>
       </a><br />
       <sub>8 commits</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/apps/github-actions">
-        <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt="github-actions[bot]"><br />
-        <sub><b>github-actions[bot]</b></sub>
-      </a><br />
-      <sub>7 commits</sub>
     </td>
     <td align="center">
       <a href="https://github.com/anneyomeje">
@@ -321,23 +321,16 @@ The frontend should now be running at `http://localhost:3000`
       <sub>3 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Haroldwonder">
-        <img src="https://avatars.githubusercontent.com/u/194428112?v=4" width="64" height="64" alt="Haroldwonder"><br />
-        <sub><b>Haroldwonder</b></sub>
+      <a href="https://github.com/Davidemulo">
+        <img src="https://avatars.githubusercontent.com/u/161654052?v=4" width="64" height="64" alt="Davidemulo"><br />
+        <sub><b>Davidemulo</b></sub>
       </a><br />
       <sub>2 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/solowiseCV">
-        <img src="https://avatars.githubusercontent.com/u/105504678?v=4" width="64" height="64" alt="solowiseCV"><br />
-        <sub><b>solowiseCV</b></sub>
-      </a><br />
-      <sub>2 commits</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shrestha-das">
-        <img src="https://avatars.githubusercontent.com/u/178530177?v=4" width="64" height="64" alt="shrestha-das"><br />
-        <sub><b>shrestha-das</b></sub>
+      <a href="https://github.com/omsant02">
+        <img src="https://avatars.githubusercontent.com/u/102831123?v=4" width="64" height="64" alt="omsant02"><br />
+        <sub><b>omsant02</b></sub>
       </a><br />
       <sub>2 commits</sub>
     </td>
@@ -349,69 +342,76 @@ The frontend should now be running at `http://localhost:3000`
       <sub>2 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/omsant02">
-        <img src="https://avatars.githubusercontent.com/u/102831123?v=4" width="64" height="64" alt="omsant02"><br />
-        <sub><b>omsant02</b></sub>
+      <a href="https://github.com/shrestha-das">
+        <img src="https://avatars.githubusercontent.com/u/178530177?v=4" width="64" height="64" alt="shrestha-das"><br />
+        <sub><b>shrestha-das</b></sub>
+      </a><br />
+      <sub>2 commits</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/solowiseCV">
+        <img src="https://avatars.githubusercontent.com/u/105504678?v=4" width="64" height="64" alt="solowiseCV"><br />
+        <sub><b>solowiseCV</b></sub>
       </a><br />
       <sub>2 commits</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Davidemulo">
-        <img src="https://avatars.githubusercontent.com/u/161654052?v=4" width="64" height="64" alt="Davidemulo"><br />
-        <sub><b>Davidemulo</b></sub>
+      <a href="https://github.com/Haroldwonder">
+        <img src="https://avatars.githubusercontent.com/u/194428112?v=4" width="64" height="64" alt="Haroldwonder"><br />
+        <sub><b>Haroldwonder</b></sub>
       </a><br />
       <sub>2 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/yashtech00">
-        <img src="https://avatars.githubusercontent.com/u/141262414?v=4" width="64" height="64" alt="yashtech00"><br />
-        <sub><b>yashtech00</b></sub>
+      <a href="https://github.com/AfroTechBoss">
+        <img src="https://avatars.githubusercontent.com/u/153952115?v=4" width="64" height="64" alt="AfroTechBoss"><br />
+        <sub><b>AfroTechBoss</b></sub>
       </a><br />
       <sub>1 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Patrick-Ehimen">
-        <img src="https://avatars.githubusercontent.com/u/120640001?v=4" width="64" height="64" alt="Patrick-Ehimen"><br />
-        <sub><b>Patrick-Ehimen</b></sub>
+      <a href="https://github.com/archanadby05">
+        <img src="https://avatars.githubusercontent.com/u/121479321?v=4" width="64" height="64" alt="archanadby05"><br />
+        <sub><b>archanadby05</b></sub>
       </a><br />
       <sub>1 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/viktrified">
-        <img src="https://avatars.githubusercontent.com/u/137406385?v=4" width="64" height="64" alt="viktrified"><br />
-        <sub><b>viktrified</b></sub>
+      <a href="https://github.com/Cyber-Mitch">
+        <img src="https://avatars.githubusercontent.com/u/61045265?v=4" width="64" height="64" alt="Cyber-Mitch"><br />
+        <sub><b>Cyber-Mitch</b></sub>
       </a><br />
       <sub>1 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/anihdev">
-        <img src="https://avatars.githubusercontent.com/u/155204423?v=4" width="64" height="64" alt="anihdev"><br />
-        <sub><b>anihdev</b></sub>
+      <a href="https://github.com/CynthiaCaxton">
+        <img src="https://avatars.githubusercontent.com/u/76167825?v=4" width="64" height="64" alt="CynthiaCaxton"><br />
+        <sub><b>CynthiaCaxton</b></sub>
       </a><br />
       <sub>1 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Shashwat-Nautiyal">
-        <img src="https://avatars.githubusercontent.com/u/148687529?v=4" width="64" height="64" alt="Shashwat-Nautiyal"><br />
-        <sub><b>Shashwat-Nautiyal</b></sub>
+      <a href="https://github.com/emarc99">
+        <img src="https://avatars.githubusercontent.com/u/57766083?v=4" width="64" height="64" alt="emarc99"><br />
+        <sub><b>emarc99</b></sub>
       </a><br />
       <sub>1 commits</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Pheenah">
-        <img src="https://avatars.githubusercontent.com/u/98043346?v=4" width="64" height="64" alt="Pheenah"><br />
-        <sub><b>Pheenah</b></sub>
+      <a href="https://github.com/gethsun1">
+        <img src="https://avatars.githubusercontent.com/u/56596995?v=4" width="64" height="64" alt="gethsun1"><br />
+        <sub><b>gethsun1</b></sub>
       </a><br />
       <sub>1 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Jayrodri088">
-        <img src="https://avatars.githubusercontent.com/u/111138366?v=4" width="64" height="64" alt="Jayrodri088"><br />
-        <sub><b>Jayrodri088</b></sub>
+      <a href="https://github.com/Gladchux14">
+        <img src="https://avatars.githubusercontent.com/u/100625461?v=4" width="64" height="64" alt="Gladchux14"><br />
+        <sub><b>Gladchux14</b></sub>
       </a><br />
       <sub>1 commits</sub>
     </td>
