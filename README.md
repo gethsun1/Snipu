@@ -281,7 +281,7 @@ The frontend should now be running at `http://localhost:3000`
         <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt="github-actions[bot]"><br />
         <sub><b>github-actions[bot]</b></sub>
       </a><br />
-      <sub>17 commits</sub>
+      <sub>18 commits</sub>
     </td>
     <td align="center">
       <a href="https://github.com/josephchimebuka">
@@ -386,9 +386,9 @@ The frontend should now be running at `http://localhost:3000`
       <sub>1 commits</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/CynthiaCaxton">
-        <img src="https://avatars.githubusercontent.com/u/76167825?v=4" width="64" height="64" alt="CynthiaCaxton"><br />
-        <sub><b>CynthiaCaxton</b></sub>
+      <a href="https://github.com/OsagieCynthia">
+        <img src="https://avatars.githubusercontent.com/u/76167825?v=4" width="64" height="64" alt="OsagieCynthia"><br />
+        <sub><b>OsagieCynthia</b></sub>
       </a><br />
       <sub>1 commits</sub>
     </td>
