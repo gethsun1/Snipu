@@ -281,7 +281,7 @@ The frontend should now be running at `http://localhost:3000`
         <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="64" height="64" alt="github-actions[bot]"><br />
         <sub><b>github-actions[bot]</b></sub>
       </a><br />
-      <sub>18 commits</sub>
+      <sub>19 commits</sub>
     </td>
     <td align="center">
       <a href="https://github.com/josephchimebuka">
@@ -358,13 +358,6 @@ The frontend should now be running at `http://localhost:3000`
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/Haroldwonder">
-        <img src="https://avatars.githubusercontent.com/u/194428112?v=4" width="64" height="64" alt="Haroldwonder"><br />
-        <sub><b>Haroldwonder</b></sub>
-      </a><br />
-      <sub>2 commits</sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/AfroTechBoss">
         <img src="https://avatars.githubusercontent.com/u/153952115?v=4" width="64" height="64" alt="AfroTechBoss"><br />
         <sub><b>AfroTechBoss</b></sub>
@@ -399,8 +392,6 @@ The frontend should now be running at `http://localhost:3000`
       </a><br />
       <sub>1 commits</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/gethsun1">
         <img src="https://avatars.githubusercontent.com/u/56596995?v=4" width="64" height="64" alt="gethsun1"><br />
@@ -408,10 +399,19 @@ The frontend should now be running at `http://localhost:3000`
       </a><br />
       <sub>1 commits</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Gladchux14">
         <img src="https://avatars.githubusercontent.com/u/100625461?v=4" width="64" height="64" alt="Gladchux14"><br />
         <sub><b>Gladchux14</b></sub>
+      </a><br />
+      <sub>1 commits</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jayrodri088">
+        <img src="https://avatars.githubusercontent.com/u/111138366?v=4" width="64" height="64" alt="Jayrodri088"><br />
+        <sub><b>Jayrodri088</b></sub>
       </a><br />
       <sub>1 commits</sub>
     </td>
